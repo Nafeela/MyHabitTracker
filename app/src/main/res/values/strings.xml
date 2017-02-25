@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyHabitTracker</string>
+    <string name="hobby">Enter your hobby</string>
+    <string name="hobby1">Enter your hobby</string>
+    <string name="dur">Enter the duration of your hobby</string>
+    <string name="dur1">Enter the duration in minutes</string>
+    <string name="create">CREATE</string>
+    <string name="search">Enter the hobby to be searched</string>
+    <string name="num">SEARCH</string>
+    <string name="dur2">Duration</string>
 </resources>
